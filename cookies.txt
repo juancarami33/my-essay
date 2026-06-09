@@ -1,7 +1,7 @@
 CHOCOLATE CHIP COOKIES
 Ingredients: 2 cups flour, 1 cup butter, 1 cup sugar, 2 eggs, 2 cups chocolate chips
 Instructions: Mix butter and sugar, add eggs, mix in flour, fold in chocolate chips
-Temperature: 450°F
+Temperature: 350°F
 Time: 12 minutes
 Yield: 24 cookies
 Tips: Use parchment paper
