@@ -5,8 +5,9 @@ Name: [Your Name]
 Major: Computer Science
 
 ## Skills
-- Programming: Basic
-- Git: Learning
+- Programming: C++, JavaScript
+- Git: Advanced
+- Database: SQL
 
 ## Projects
 - Project 1: TBD
